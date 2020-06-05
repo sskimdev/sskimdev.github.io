@@ -16,3 +16,5 @@ https://vuejsexamples.com/vue-signature-pad-component/
 
 https://jsfiddle.net/szimek/d6a78gwq/
 
+https://m.blog.naver.com/jochanyang/221367116122
+
