@@ -6,7 +6,6 @@ categories: develoment python
 내용작성~~~~~~~~
 
 Jekyll - GitHub Pages:
-
 https://jekyllrb-ko.github.io/
 
 
