@@ -22,3 +22,7 @@ SPA 자동 배포 (Git + Jenkins + AWS):
 
 https://devnoff.wordpress.com/2019/06/18/spa-%EC%9E%90%EB%8F%99-%EB%B0%B0%ED%8F%AC-git-jenkins-aws/
 
+Vue.js 실전개발 - Vue CLI, Vuetify:
+
+https://wooyoung85.tistory.com/57
+
